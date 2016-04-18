@@ -22,7 +22,6 @@
 
 PRODUCT_PACKAGES += \
     BasicDreams \
-    Calendar \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
@@ -36,15 +35,12 @@ PRODUCT_PACKAGES += \
     InputDevices \
     KeyChain \
     Keyguard \
-    LatinIME \
     Launcher2 \
     ManagedProvisioning \
-    PicoTts \
     PacProcessor \
     libpac \
     PrintSpooler \
     ProxyHandler \
-    QuickSearchBox \
     Settings \
     SharedStorageBackup \
     Telecom \
