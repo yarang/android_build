@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     adb \
     adbd \
     atrace \
-    bootanimation \
     debuggerd \
     dumpstate \
     dumpsys \
